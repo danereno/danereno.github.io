@@ -4,4 +4,16 @@ title: Projects
 permalink: /projects/
 ---
 
-This is a projects page.
+## Sorting Algorithm Visualizer
+
+![Sorting Algorithm Visualizer](/img/sorting.gif)
+
+project description
+
+## Fretboard Reference Tool
+
+project description
+
+## Magic: The Gathering Card Generator
+
+project description
