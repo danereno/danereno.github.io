@@ -18,11 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-root: /
 title: Danial Madson
 email: danial.madson@gmail.com
-linkedin_username: danial-madson
-github_username: danereno
+linkedin: danial-madson
+github: danereno
 description: >- # this means to ignore newlines until "baseurl:"
   Made by Danial Madson © 2021
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -37,7 +36,6 @@ plugins:
 
 include:
   - "_img"
-  - "assets/css"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
