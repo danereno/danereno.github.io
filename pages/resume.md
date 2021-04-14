@@ -7,7 +7,7 @@ permalink: /resume/
 ## Education
 ***
 
-**Dakota State University** • Madison, SD  
+**Dakota State University** •  820 Washington Ave N, Madison, SD  
 _Bachelor of Computer Science, 2017 - 2021_  
   
 * 3.88 GPA
@@ -29,7 +29,7 @@ _Managed Services Intern, Jan. 2017 - June 2018_
 
 * Effective collaborator and comfortable in group environments
 * Skilled in presenting/public speaking
-* Proficient with programming in C/C++, C#, Python3, Javascript ES6, and Go, as well as working with HTML5, CSS3, and Regular Expressions.
+* Proficient with programming in C/C++, C#, Python3, Javascript ES6, and Go, as well as working with HTML5, CSS3, and regular expressions.
 * Familiar with the following technologies:
     - Cisco and Fortinet security appliances
     - Cryptographic systems and encryption
